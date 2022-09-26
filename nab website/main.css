@@ -1,0 +1,76 @@
+
+body {
+    background-color: white; 
+    
+}
+
+
+#one {
+    position: absolute;
+    height: 50%;
+    width: 70%;
+    right: 0%;
+}
+
+#two {
+    position: absolute;
+    height: 50%;
+    width: 30%;
+    left: 0%;
+}
+
+
+
+
+
+
+
+h1 {
+    background: yellow;
+    border: outset red 15px;
+    text-align: center;
+}
+
+a {
+    border: 1px solid black;
+    color: white;
+    background-color: #202020;
+}
+
+a:visited{
+    
+    color: white;
+    background-color: #202020;
+}
+
+a:active{
+    color: blue;
+    background-color: yellow;
+    
+}
+
+a:hover{
+    color: aqua;
+    background-color: white;
+    border: none;
+}
+
+.about{
+    
+    color: white;
+    background: white;
+    border: none;
+}
+
+
+
+
+
+table {
+    border-color: blue; 
+}
+
+
+    
+
+
